@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors -->
+    <color name="primary">#FF1565C0</color>
+    <color name="primary_dark">#FF0D47A1</color>
+    <color name="primary_light">#FF42A5F5</color>
+    
+    <!-- Secondary colors -->
+    <color name="secondary">#FF00897B</color>
+    <color name="secondary_dark">#FF00695C</color>
+    <color name="secondary_light">#FF4DB6AC</color>
+    
+    <!-- Tertiary colors -->
+    <color name="tertiary">#FFFFA000</color>
+    <color name="tertiary_dark">#FFFF8F00</color>
+    <color name="tertiary_light">#FFFFCA28</color>
+    
+    <!-- Background colors -->
+    <color name="background">#FFFAFAFA</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="surface_variant">#FFF5F5F5</color>
+    
+    <!-- Dark theme colors -->
+    <color name="background_dark">#FF121212</color>
+    <color name="surface_dark">#FF1E1E1E</color>
+    <color name="surface_variant_dark">#FF2D2D2D</color>
+    
+    <!-- Error colors -->
+    <color name="error">#FFB00020</color>
+    <color name="error_dark">#FFCF6679</color>
+    
+    <!-- Recording state colors -->
+    <color name="recording_red">#FFE53935</color>
+    <color name="recording_red_dark">#FFFF5252</color>
+    
+    <!-- Text colors -->
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="on_background">#FF1C1B1F</color>
+    <color name="on_background_dark">#FFE6E1E5</color>
+    <color name="on_surface">#FF1C1B1F</color>
+    <color name="on_surface_dark">#FFE6E1E5</color>
+    <color name="on_error">#FFFFFFFF</color>
+    
+    <!-- Legacy colors for backward compatibility -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

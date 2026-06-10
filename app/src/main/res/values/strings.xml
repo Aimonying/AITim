@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">听记助手</string>
+    <string name="title_home">首页</string>
+    <string name="title_recording">录音</string>
+    <string name="title_history">历史记录</string>
+    <string name="title_settings">设置</string>
+    
+    <!-- Recording Screen -->
+    <string name="start_recording">开始录音</string>
+    <string name="stop_recording">停止录音</string>
+    <string name="pause_recording">暂停录音</string>
+    <string name="resume_recording">继续录音</string>
+    <string name="recording_in_progress">正在录音...</string>
+    <string name="recording_paused">录音已暂停</string>
+    
+    <!-- Home Screen -->
+    <string name="welcome_message">欢迎使用听记助手</string>
+    <string name="quick_recording">快速录音</string>
+    <string name="recent_recordings">最近录音</string>
+    <string name="no_recordings">暂无录音记录</string>
+    
+    <!-- History Screen -->
+    <string name="all_recordings">全部录音</string>
+    <string name="search_recordings">搜索录音</string>
+    <string name="delete_recording">删除录音</string>
+    <string name="delete_confirm">确定要删除这条录音吗？</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    
+    <!-- Settings Screen -->
+    <string name="audio_quality">音频质量</string>
+    <string name="audio_quality_high">高质量</string>
+    <string name="audio_quality_medium">中等质量</string>
+    <string name="audio_quality_low">低质量</string>
+    <string name="auto_save">自动保存</string>
+    <string name="auto_save_description">录音结束后自动保存</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="dark_mode_description">使用深色主题</string>
+    <string name="about">关于</string>
+    <string name="version">版本</string>
+    <string name="clear_cache">清除缓存</string>
+    <string name="language_settings">语言设置</string>
+    <string name="default_language">默认语言</string>
+    <string name="appearance">外观</string>
+    <string name="recording_settings">录音设置</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">需要权限</string>
+    <string name="microphone_permission_rationale">听记助手需要麦克风权限来录制音频。请在设置中授予权限。</string>
+    <string name="storage_permission_rationale">听记助手需要存储权限来保存录音文件。</string>
+    <string name="grant_permission">授予权限</string>
+    
+    <!-- Notifications -->
+    <string name="recording_notification_channel">录音通知</string>
+    <string name="recording_notification_title">正在录音</string>
+    <string name="recording_notification_text">点击停止录音</string>
+    
+    <!-- Errors -->
+    <string name="error_recording_failed">录音启动失败</string>
+    <string name="error_playback_failed">播放失败</string>
+    <string name="error_save_failed">保存失败</string>
+    <string name="error_transcription_failed">转写失败</string>
+    <string name="error_no_microphone">未检测到麦克风</string>
+    <string name="error_disk_full">存储空间不足</string>
+    
+    <!-- Transcription -->
+    <string name="transcribing">正在转写...</string>
+    <string name="transcription_complete">转写完成</string>
+    <string name="transcription_failed">转写失败</string>
+    <string name="copy_text">复制文本</string>
+    <string name="share_text">分享文本</string>
+    
+    <!-- General -->
+    <string name="ok">好的</string>
+    <string name="save">保存</string>
+    <string name="delete">删除</string>
+    <string name="edit">编辑</string>
+    <string name="share">分享</string>
+    <string name="rename">重命名</string>
+    <string name="back">返回</string>
+    
+    <!-- Record Types -->
+    <string name="type_realtime">实时录音</string>
+    <string name="type_upload">上传录音</string>
+    <string name="type_text">文本输入</string>
+    
+    <!-- Favorite -->
+    <string name="toggle_favorite">收藏</string>
+    <string name="favorites_only">仅显示收藏</string>
+    <string name="transcribed">已转写</string>
+    
+    <!-- File Size Warning -->
+    <string name="file_size_warning">文件大小即将达到500MB限制</string>
+    <string name="file_size_limit_reached">已达文件大小限制，是否开始新录音？</string>
+    
+    <!-- Recording Screen -->
+    <string name="duration">时长</string>
+    <string name="file_size">文件大小</string>
+    <string name="language">语言</string>
+    <string name="chinese">普通话</string>
+    <string name="english">英语</string>
+    <string name="start_recording_hint">点击开始录音</string>
+    
+    <!-- Result Screen -->
+    <string name="result_title">转写结果</string>
+    <string name="transcript">转写文字</string>
+    <string name="no_transcript">暂无转写内容</string>
+    <string name="meeting_summary">会议纪要</string>
+    <string name="no_summary">暂无会议纪要</string>
+    <string name="generate_summary">生成纪要</string>
+    <string name="regenerate_summary">重新生成</string>
+    <string name="generating_summary">正在生成纪要...</string>
+    
+    <!-- Summary Fields -->
+    <string name="location">地点</string>
+    <string name="participants">参会人员</string>
+    <string name="agenda">议程</string>
+    <string name="conclusion">结论</string>
+    
+    <!-- Home Screen -->
+    <string name="total_recordings">录音总数</string>
+    <string name="total_duration">总时长</string>
+    <string name="view_all">查看全部</string>
+    
+    <!-- Subscription Screen -->
+    <string name="title_subscription">订阅</string>
+    <string name="subscription">订阅</string>
+    <string name="upgrade">升级</string>
+    <string name="choose_plan">选择套餐</string>
+    <string name="current_plan">当前套餐</string>
+    <string name="already_purchased">已购买</string>
+    <string name="subscribe">订阅</string>
+    <string name="buy_now">立即购买</string>
+    <string name="one_time_purchase">一次性购买</string>
+    <string name="purchase_success">购买成功</string>
+    <string name="terms_note">购买即表示同意服务协议和隐私政策</string>
+    
+    <!-- Plans -->
+    <string name="plan_light">轻量版</string>
+    <string name="plan_light_desc">每月100分钟转写时长</string>
+    <string name="plan_pro">专业版</string>
+    <string name="plan_pro_desc">无限时长 + 高级功能</string>
+    <string name="plan_lifetime">永久版</string>
+    <string name="plan_lifetime_desc">永久使用 + 全部功能</string>
+    
+    <!-- Features -->
+    <string name="features_comparison">功能对比</string>
+    <string name="feature_basic_transcription">基础转写</string>
+    <string name="feature_minutes">转写时长</string>
+    <string name="feature_advanced_templates">高级纪要模板</string>
+    <string name="feature_pdf_export">PDF导出</string>
+    <string name="feature_cloud_backup">云备份</string>
+    <string name="feature_lifetime">永久使用</string>
+    
+    <!-- Manage Subscription -->
+    <string name="manage_subscription">管理订阅</string>
+    <string name="manage_subscription_desc">查看当前套餐，升级或续费</string>
+    
+    <!-- Developer Mode -->
+    <string name="developer_mode">开发者模式</string>
+    <string name="enable_developer_mode">启用开发者模式</string>
+    <string name="developer_mode_desc">开启后可无限使用所有功能（仅开发测试用）</string>
+    
+    <!-- Admin Login -->
+    <string name="admin_login">管理员登录</string>
+    <string name="admin_login_title">管理员登录</string>
+    <string name="admin_login_desc">输入管理员密码以获得所有功能无限使用权</string>
+    <string name="password">密码</string>
+    <string name="login">登录</string>
+    <string name="admin_password_hint">默认密码：admin123</string>
+    
+    <!-- User Roles -->
+    <string name="admin_role">管理员</string>
+    <string name="user_role">普通用户</string>
+    <string name="not_logged_in">未登录</string>
+    <string name="logout">退出登录</string>
+</resources>
